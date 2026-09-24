@@ -1,0 +1,6 @@
+bbtraders-clone/node_modules
+bbtraders-clone-api/node_modules
+bbtraders-clone/dist
+bbtraders-clone-api/dist
+bbtraders-clone/.env
+bbtraders-clone-api/.env
