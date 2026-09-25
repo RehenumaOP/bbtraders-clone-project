@@ -4,7 +4,7 @@ A feature-inspired e-commerce website built for my 15-day internship project. In
 
 🎥 **Project Demo Video:** [Watch on Loom](https://www.loom.com/share/5317a0f42fe24700ad3c61d90c4e7f8a?t=2)
 
-🔗 **Live Site:** [PASTE_YOUR_DEPLOYED_LINK_HERE]
+🔗 **Live Site:** [https://bbtraders-clone-project.netlify.app]
 
 ---
 
