@@ -2,7 +2,7 @@
 
 A feature-inspired e-commerce website built for my 15-day internship project. Instead of copying [bbtradersbd.com](https://bbtradersbd.com) exactly, I rebuilt its core features using my own tech stack, with my own design decisions along the way.
 
-🎥 **Project Demo Video:** [https://www.loom.com/share/5317a0f42fe24700ad3c61d90c4e7f8a?t=2]
+🎥 **Project Demo Video:** [Watch on Loom](https://www.loom.com/share/5317a0f42fe24700ad3c61d90c4e7f8a?t=2)
 
 🔗 **Live Site:** [PASTE_YOUR_DEPLOYED_LINK_HERE]
 
