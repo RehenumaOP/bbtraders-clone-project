@@ -1,6 +1,6 @@
 import { supabase } from './supabaseClient'
 
-const API_URL = 'https://bbtraders-clone-project.onrender.com'
+const API_URL = 'https://bbtraders-clone-project.onrender.com/api'
 
 async function getAuthHeader(): Promise<Record<string, string>> {
   const { data } = await supabase.auth.getSession()
