@@ -69,7 +69,7 @@ function ProductDetails() {
             }`}
           >
             {added ? '✓ Added to Cart' : 'Add to Cart'}
-            Add to Cart
+            
           </button>
         </div>
       </div>
